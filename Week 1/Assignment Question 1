@@ -2,7 +2,7 @@
 multiples of 3 with "Fizz" and multiples of 5 with "Buzz" */
 
 #include <stdio.h>
-int main(void)
+int main()
 {
     int i;
     for (i=1; i<=100; i++)
