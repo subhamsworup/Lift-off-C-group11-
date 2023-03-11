@@ -11,11 +11,7 @@ int main()
     printf("Enter second number:\n");
     scanf("%d", &b);
     
-    printf("\nList of operations");
-    printf("\n1 for Addition");
-    printf("\n2 for Substraction");
-    printf("\n3 for Multiplication");
-    printf("\n4 for Division");
+    printf("\nList of operations \n1 for Addition \n2 for Substraction \n3 for Multiplication \n4 for Division");
 
     printf("\nEnter your choice: ");
     scanf("%d", &choice);
