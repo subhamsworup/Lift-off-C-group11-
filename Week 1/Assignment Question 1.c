@@ -9,19 +9,19 @@ int main()
     {
     if (i%3==0 && i%5==0)
         {
-        printf("FizzBuzz\t");
+        printf("FizzBuzz\n");
         }
         else if (i%3== 0) 
         {
-            printf("Fizz\t"); 
+            printf("Fizz\n"); 
         }
         else if (i%5== 0) 
         {                     
-            printf("Buzz\t"); 
+            printf("Buzz\n"); 
          }  
         else 
         {
-            printf("%d\t", i);   
+            printf("%d\n", i);   
         }
  
     }
