@@ -1,3 +1,6 @@
+/* Write a program to count the number of occurrences of a number in an array 
+ using function. */
+
 #include <stdio.h>
 int countoccur(int arr[], int n, int num)
 {
