@@ -1,3 +1,5 @@
+/*Take two array as input, merge them and print it in reverse order using loop.*/
+
 #include <stdio.h>
 int main()
 {
