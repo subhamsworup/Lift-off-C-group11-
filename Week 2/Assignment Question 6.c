@@ -1,3 +1,5 @@
+/* Write a program to find maximum occurring integer in an array */
+
 #include<stdio.h>
 int main()
 {
