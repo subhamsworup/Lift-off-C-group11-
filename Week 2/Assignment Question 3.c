@@ -1,3 +1,5 @@
+/* Write a program to sort a given array using function */
+
 #include <stdio.h>
 void sortarray(int arr[], int n) 
 {
