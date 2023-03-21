@@ -1,3 +1,5 @@
+ /* Write a program to move all the negative elements to one side of the array */
+
 #include <stdio.h>
 int main()
 {
