@@ -1,0 +1,3 @@
+(a)'s answer:- (ii) k is a pointer to a pointer to a pointer to a pointer to a char
+
+(b)'s answer:-(iii)6
